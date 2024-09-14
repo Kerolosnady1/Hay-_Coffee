@@ -125,12 +125,16 @@ nav ul li a:hover {
     animation: slideInMenu 1s forwards ease-in-out;
 }
 
-.slide-in-left {
-    transform: translateX(-50px);
-}
-
-.slide-in-right {
-    transform: translateX(50px);
+/* Keyframes for slide-in animation */
+@keyframes slideInMenu {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .menu-item img {
