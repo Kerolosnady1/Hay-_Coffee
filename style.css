@@ -46,7 +46,7 @@ nav ul li a:hover {
 
 /* Hero Section with Animated Background */
 #hero {
-    background-image: url('hero-bg.jpg');
+    background-image: url('images/hero-bg.jpg');
     background-size: cover;
     background-position: center;
     color: white;
