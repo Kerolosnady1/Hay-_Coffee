@@ -42,7 +42,7 @@ Check out the live demo of the project: [Hay! Coffee Live Demo](https://kerolosn
    ```bash
    git clone https://github.com/Kerolosnady1/Hay-_Coffee.git
 
-cd your-repo-name
+cd Hay-_Coffee &&
 open index.html
 
 ## Usage
